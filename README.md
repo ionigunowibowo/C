@@ -1,2 +1,2 @@
 # C
-Belajar pemrograman bahasa C
+Belajar bahasa C
